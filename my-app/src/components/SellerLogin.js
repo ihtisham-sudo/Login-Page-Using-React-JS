@@ -10,7 +10,7 @@ const SellerLogin = ({ handleChange }) => {
         <Grid>
             <Paper style={paperStyle}>
                 <Grid align='center'>
-                    <h4>Adoptionof Smart Contract In Supply Chain Management using IoT</h4>
+                    <h4>Adaptation of Smart Contract In Supply Chain Management using IoT</h4>
 
                     <h2>Welcome Seller!</h2>
                 </Grid>
